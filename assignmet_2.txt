@@ -1,0 +1,45 @@
+In windows , I want a functionality where application on single click (show report) fetch the information from git project and show all these information as report.
+
+Information:
+
+Total No of Repositories
+Each repository size
+Last revision history on dev (each repo)
+Last revision history on Master (each repo)
+total no of users in git and their roles
+
+
+
+Project Name: Devops_Integration
+
+Reposistories:
+
+Purchase order
+Patient_History
+STOCKPLUS_SUPPLIERSDATA
+Third_party_schedule
+Drug_store_stock
+MDM_SAG_status
+LOad_Order_Purchase
+Billing_Information
+Provider_details
+ADJUDICATION_METRICS
+PURCHASE_LOADORDERSCHEDULES
+INVENTORY_CONSUMENOTIFYSTOCKCREATE
+INVENTORY_MERGESTOCKADJUSTMENTS
+PRICING_LOADLOCALTBF0NONSYSSIMS
+STORECONTM_LOADTEAMMEMBER
+SUPPLIER_LOADSUPPLIERLOCATIONASSOCIATION
+PLAN_EXTRACTTBF0PBRTHRDPTY
+COMMON_LOADJOBPARAMETERSFILETODATABASE
+
+User details:put some  atleast 20 american names as developer/  2 admin 
+
+example: smith John  , Jennifer doug, Mark shineck ,  
+
+
+
+
+
+
+
